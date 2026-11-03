@@ -31,7 +31,7 @@
 ## Let's connect
 
 - Portfolio: YOUR_PORTFOLIO_URL
-- LinkedIn: https://www.linkedin.com/in/k-lasya-priya-a16bb82a6 utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: https://www.linkedin.com/in/k-lasya-priya-a16bb82a6
 - Email: lasyapriya604@gmail.com
 
 ---
