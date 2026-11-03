@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge" alt="Portfolio"></a>
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/k-lasya-priya-a16bb82a6)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/k-lasya-priya-a16bb82a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto: lasyapriya6024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
