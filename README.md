@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Lasya</h1>
+<h1 align="center">K.Lasya Priya</h1>
 <h3 align="center">ECE Graduate | Aspiring Software Developer</h3>
 
 <p align="center">
@@ -14,8 +14,7 @@
 - B.Tech graduate in Electronics and Communication Engineering.
 - Interested in Frontend Development and Software Engineering.
 - Builds web applications using React.js, JavaScript, HTML and CSS.
-- Currently learning Java and Data Structures & Algorithms.
-- Looking for an opportunity as a Software Developer.
+- Looking for opportunities to grow as a Software Developer.
 
 ## Tech stack
 
@@ -23,23 +22,18 @@
 
 **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Backend and database:** ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+**Database:** ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lasya0413&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lasya0413&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/4F46E5/Lasya0413" alt="GitHub contribution calendar">
-</p>
 
 ## Let's connect
 
 - Portfolio: YOUR_PORTFOLIO_URL
 - LinkedIn: YOUR_LINKEDIN_URL
 - Email: YOUR_EMAIL
+
+---
+
+<p align="center">
+  ✨ Always Learning, Building and Growing! ✨
+</p>
